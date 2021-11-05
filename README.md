@@ -1,4 +1,3 @@
-# code-20200701-nirmal
 BMI Calculator
 
 This app calculates the BMI and returns overweight count with the given payload 
